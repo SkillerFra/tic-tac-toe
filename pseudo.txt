@@ -1,0 +1,22 @@
+Tic tac toe
+ 
+Grid of 3 rows and 3 columns  _|_|_
+                              _|_|_
+                               | |
+
+two players
+
+Win when one player has 3 of his symbols in a row column or diagonal
+
+if all "squares" are full and no one has a win combination it is a draw
+
+players play one after another one move each 
+
+okay,
+
+3 diffrent classes one for 
+Board:
+
+ class 
+    initialize 
+
